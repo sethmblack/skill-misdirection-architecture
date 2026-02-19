@@ -3,8 +3,9 @@ name: misdirection-architecture
 description: 'Build jokes where setup establishes expectation, punchline subverts with worse outcome using three-part structure: establish normal → imply hope → deliver worse.'
 license: MIT
 metadata:
+  version: 1.0.4508
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
 - misdirection-architecture
@@ -351,9 +352,9 @@ Seeming compliment → negative trait #1 → negative trait #2
 
 **Why it works:**
 - Setup: Desperation seeking help
-- First subversion: 1.0.0Put on hold (denied immediate help)
-- Second subversion: 1.0.0Excessive wait (no priority given)
-- Final subversion: 1.0.0Hung up (complete abandonment)
+- First subversion: Put on hold (denied immediate help)
+- Second subversion: Excessive wait (no priority given)
+- Final subversion: Hung up (complete abandonment)
 - Worse than not calling: Professional confirmation nobody cares
 
 ---
@@ -418,8 +419,8 @@ Seeming compliment → negative trait #1 → negative trait #2
 **Question:** Is the outcome worse than if there were no hope?
 
 **Example:**
-- No hope version: 1.0.0"My doctor said I'm unhealthy."
-- With hope version: 1.0.0"My doctor said he'd help me get healthy. Then he gave me directions out of town."
+- No hope version: "My doctor said I'm unhealthy."
+- With hope version: "My doctor said he'd help me get healthy. Then he gave me directions out of town."
 - Result: ✅ Second is worse (hope was false)
 
 ### Test 3: The Surprise Test
