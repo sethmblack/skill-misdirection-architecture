@@ -3,7 +3,7 @@ name: misdirection-architecture
 description: 'Build jokes where setup establishes expectation, punchline subverts with worse outcome using three-part structure: establish normal → imply hope → deliver worse.'
 license: MIT
 metadata:
-  version: 1.0.4508
+  version: 1.0.4509
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
